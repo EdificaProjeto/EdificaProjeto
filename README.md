@@ -12,6 +12,6 @@ O projeto Edifica é uma solução abrangente para gestão de materiais em refor
 
 ### Links
 
-- [Blog](https://www.edificaprojeto.blogspot.com)
+- [Blog](https://projetoedifica.blogspot.com)
 - [Figma](https://www.figma.com/file/fCNb3E2ctuLwaG2n98H8hE/Edifica?type=design&node-id=0%3A1&t=R2LY5jSTg4bzB2U4-1)
 - [GitHub](https://github.com/EdificaProjeto)
